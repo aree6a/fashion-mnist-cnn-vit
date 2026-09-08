@@ -1,0 +1,37 @@
+# Python
+
+**pycache**/
+*.py[cod]
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Datasets
+
+data/
+
+# Trained model files
+
+*.pth
+*.pt
+*.ckpt
+
+# Generated data
+
+*.csv
+
+# Operating system files
+
+.DS_Store
+
+# IDE settings
+
+.vscode/
+.idea/
